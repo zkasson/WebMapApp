@@ -1,0 +1,30 @@
+/* ArcGIS CSS overrides */
+.esri-view {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .esri-search {
+    width: 100%;
+  }
+  
+  .esri-search__input {
+    background-color: #404040 !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 0.5rem !important;
+  }
+  
+  .esri-search__input::placeholder {
+    color: #a0a0a0 !important;
+  }
+  
+  .esri-search__submit-button {
+    display: none !important;
+  }
+  
+  .esri-search__clear-button {
+    color: white !important;
+  }
+  
+  
